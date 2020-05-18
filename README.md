@@ -7,7 +7,7 @@ A simple yet effective way to tell your components when an element has entered o
 Run npm to add the package to your local package.json:
 
 ```
-  npm install on-screen-directive
+  npm i @touchdown/on-sight
 ```
   
 Then, import the **OnSightModule** into your modules:

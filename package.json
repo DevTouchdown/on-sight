@@ -1,11 +1,18 @@
 {
   "name": "@touchdown/on-sight",
-  "version": "0.0.1",
+  "description": "A simple yet effective way to tell your components when an element has entered or left the screen",
+  "version": "1.0.0",
+  "changes": "Update README.md",
   "license": "MIT",
   "author": {
     "name": "Dev Touchdown",
     "email": "devtouchdown@outlook.com"
   },
+  "keywords": [
+    "angular",
+    "directive",
+    "scroll"
+  ],
   "publishConfig": {
     "access": "public"
   },
